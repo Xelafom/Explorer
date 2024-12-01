@@ -1,1 +1,1 @@
-check rep
+check repository
